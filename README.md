@@ -39,11 +39,5 @@ The **TwoByTwo Learning Center** plans to implement extended childcare services,
 - Support local businesses and organizations by improving employee work-life balance.
 - Enable the **TwoByTwo Learning Center** to make informed business decisions based on real data.
 
-## Contact
-For inquiries or collaboration opportunities, please reach out to:
-- **Project Lead:** Jyot Buch
-- **Organization:** TwoByTwo Learning Center
-- **Email:** [Your Contact Email]
-
 ---
 **License:** This project is open-source and can be used for non-commercial research and community support initiatives.
